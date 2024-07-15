@@ -1,0 +1,6 @@
+[tnode]
+
+#aap-server
+tnode1-rhel # centos.exp.com
+tnode2-ubuntu
+tnode3-rhel
